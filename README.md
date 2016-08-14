@@ -1,4 +1,4 @@
-# Pinteresting Clone Title
+# Pinteresting Clone - Work in Progress
 
 This is the Pinteresting fake which I am trying to build while learning rails.
 
